@@ -4,9 +4,9 @@
 
   - Spring Boot
   * Maven
-  + Hibernate (ORM)
+  + JPA + Hibernate (ORM)
   - PosgreSQl
-  * Tableplus para base de datos 
+  * Tableplus/pgAdmin para base de datos 
   + Docker Hub postgres - Official Image
   + PostMan 
 ```
